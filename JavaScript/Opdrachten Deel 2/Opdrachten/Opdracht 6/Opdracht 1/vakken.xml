@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vakken>
+    <vak>
+        <vaknaam>Javascript</vaknaam>
+        <docent>LEI</docent>
+        <cijfer>4</cijfer>
+        <moeilijkheidsgraad>3</moeilijkheidsgraad>
+    </vak>
+    <vak>
+        <vaknaam>Illustrator</vaknaam>
+        <docent>VOS</docent>
+        <cijfer>8</cijfer>
+        <moeilijkheidsgraad>3</moeilijkheidsgraad>
+    </vak>
+    <vak>
+        <vaknaam>3D</vaknaam>
+        <docent>JON</docent>
+        <cijfer>8</cijfer>
+        <moeilijkheidsgraad>3</moeilijkheidsgraad>
+    </vak>
+    <vak>
+        <vaknaam>FLash</vaknaam>
+        <docent>ZWA</docent>
+        <cijfer>8</cijfer>
+        <moeilijkheidsgraad>3</moeilijkheidsgraad>
+    </vak>
+</vakken>
