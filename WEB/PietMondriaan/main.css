@@ -1,0 +1,15 @@
+.section{
+    width: 1024px;
+    height: 768px;
+    background: blue;
+}
+
+.block{
+    background: white;
+    border: black 3px;
+}
+
+#1{
+    width: 200px;
+    height: 180px;
+}

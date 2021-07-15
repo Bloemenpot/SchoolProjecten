@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900&display=swap');
+
+body {
+    font-family: montserrat;
+    background: black;
+    height: 100vh;
+    margin: 0px;
+}
+
+main {
+    background: white;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 33% 34% 33%;
+    grid-template-rows: 15% 10% 50% 20% 5%;
+    grid-template-areas: 
+    "header header header"
+    "nav nav nav"
+    "section-one section-two section-two"
+    "section-three section-three section-three"
+    "footer footer footer";
+}
+nav{
+    grid-area: nav;
+    background: #B8FFBE;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header{
+    grid-area: header;
+    background: #9BE8B8;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+}
+.section-one{
+    grid-area: section-one;
+    background: #DDFFAB;
+    font-size: 14px;
+    display: inline;
+    justify-content:;
+    align-items:center;
+}
+.section-two{
+    grid-area: section-two;
+}
+.section-three{
+    grid-area: section-three;
+    background: #B8FFBE;
+}
+footer{
+    grid-area: footer;
+    background: #9BE8B8;
+}
+
+li{
+    list-style: none;
+    font-size: 1.2em;
+    font-weight: 400;
+    padding: 1em;
+    margin: 1em;
+}
+
+.button{
+    padding: 10px;
+    font-size: 1.2em;
+    border-radius: 40%;
+}
+
+.web{
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.name{
+    font-weight: 700;
+}
+
+.account-info{
+    font-size: 25px;
+}
+
+.title{
+    font-size: 60px;
+    font-weight: 550;
+    padding-left: 200px;
+    padding-top: 100px;
+    color: #ABFFE1;
+    letter-spacing: 10px;
+}
+
+.lorum{
+    padding-left: 200px;
+    padding-right: 150px;
+}

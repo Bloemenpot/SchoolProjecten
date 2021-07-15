@@ -1,0 +1,78 @@
+body {
+    background: black;
+    height: 100vh;
+    margin: 0px;
+}
+main{
+    background: white;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 20% 40% 40%;
+    grid-template-rows: 10% 30% 20% 30% 10%;
+    grid-template-areas: 
+        "nav header header"
+        "nav section-one section-one"
+        "nav section-two section-two"
+        "nav section-six section-three"
+        "nav footer footer";
+}
+
+@media only screen and (min-width: 680px){
+    main{
+        background: white;
+        height: 100vh;
+        display: grid;
+        grid-template-columns: 25% 25% 25% 25%;
+        grid-template-rows: 15% 30% 40% 15%;
+        grid-template-areas: 
+        "header header header header"
+        "section-one section-one section-five section-five"
+        "nav section-two section-three section-four"
+        "footer footer footer footer"
+    }
+}
+nav{
+    grid-area: nav;
+    background: #69005D;
+}
+
+header{
+    grid-area: header;
+    background: #080069;
+}
+
+.section-one{
+    grid-area: section-one;
+    background: #4CFC9A;
+}
+
+.section-two{
+    grid-area: section-two;
+    background: #F7FF24;
+}
+
+.section-three{
+    grid-area: section-three;
+    background: #006969;
+}
+
+.section-four{
+    grid-area: section-four;
+    background: #F7FF24;
+}
+
+.section-five{
+    grid-area: section-five;
+    background: #006969;
+
+}
+
+.section-six{
+    grid-area: section-six;
+    background: #080069;
+}
+
+footer{
+    grid-area: footer;
+    background: #FF4343;
+}

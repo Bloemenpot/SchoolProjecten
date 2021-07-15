@@ -1,0 +1,25 @@
+body {
+    background-image: url(Skyjpg.jpg);
+}
+
+/* .wrapper { */
+    /* box-sizing: border-box; */
+/* } */
+
+#vliegtuig{
+    animation-name: vlieg;
+    animation-duration: 4s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    position: relative;
+}
+
+@keyframes vlieg {
+    from {
+        transform: translateX(-512px) translateY(0px) rotate(0deg);
+    }
+    to {
+        transform: translateX(1920px) translateY(512px) rotate(1080deg);
+    }
+}

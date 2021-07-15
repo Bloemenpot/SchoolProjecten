@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css?family=Trade+Winds&display=swap');
+
+body{
+    font-family: 'Trade Winds';
+    margin: 0;
+    background: blue;
+    height: 300vh;
+}
+
+.parent{
+    background: white;
+    width: 420px;
+    height: 175vh;
+}
+
+.stripe-one{
+    height: 80px;
+    width: 420px;
+    background: black;
+    position: relative;
+}
+
+.stripe-two{
+    height: 80px;
+    width: 420px;
+    color: midnightblue;
+    background: black;
+    position: relative;
+    top: 80px;
+    z-index: 2;
+}
+
+.stripe-three{
+    height: 80px;
+    width: 420px;
+    color: midnightblue;
+    background: black;
+    position: relative;
+    top: 160px;
+}
+
+.stripe-four{
+    height: 80px;
+    width: 420px;
+    color: midnightblue;
+    background: black;
+    position: relative;
+    top: 240px;
+    z-index: 2;
+}
+
+.stripe-five{
+    height: 80px;
+    width: 420px;
+    color: midnightblue;
+    background: black;
+    position: relative;
+    top: 320px;
+}
+
+.stripe-six{
+    height: 80px;
+    width: 420px;
+    color: white;
+    background: black;
+    position: relative;
+    top: 400px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    z-index: 2;
+}
+
+#fin{
+    font-size: 40px;
+    letter-spacing: 5px;
+}
+
+.block-one{
+    height: 80px;
+    width: 80px;
+    background: black;
+    position: relative;
+    top: 480px;
+    left: 170px;
+    z-index: 2;
+}
+
+.block-two{
+    height: 80px;
+    width: 250px;
+    background: black;
+    position: relative;
+    top: 560px;
+    left: 170px;
+    z-index: 2;
+}
+
+.block-three{
+    height: 80px;
+    width: 250px;
+    background: black;
+    position: relative;
+    top: 640px;
+    z-index: 2;
+}
+
+.block-four{
+    height: 80px;
+    width: 250px;
+    background: black;
+    position: relative;
+    top: 720px;
+    left: 170px;
+    z-index: 2;
+}
+
+.block-five{
+    height: 80px;
+    width: 420px;
+    background: black;
+    position: relative;
+    top: 800px;
+    z-index: 2;
+}
+
+.child-three{
+    height: 80px;
+    width: 80px;
+    color: purple;
+    background: red;
+    position: fixed;
+    top: 0px;
+    left: 170px;
+    z-index: 1;
+}
