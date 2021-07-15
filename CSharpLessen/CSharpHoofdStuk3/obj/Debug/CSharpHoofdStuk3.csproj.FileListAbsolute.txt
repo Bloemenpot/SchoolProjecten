@@ -1,0 +1,15 @@
+D:\Projects\CSharpLessen\CSharpHoofdStuk3\bin\Debug\CSharpHoofdStuk3.exe.config
+D:\Projects\CSharpLessen\CSharpHoofdStuk3\bin\Debug\CSharpHoofdStuk3.exe
+D:\Projects\CSharpLessen\CSharpHoofdStuk3\bin\Debug\CSharpHoofdStuk3.pdb
+D:\Projects\CSharpLessen\CSharpHoofdStuk3\obj\Debug\CSharpHoofdStuk3.csprojAssemblyReference.cache
+D:\Projects\CSharpLessen\CSharpHoofdStuk3\obj\Debug\MainWindow.g.cs
+D:\Projects\CSharpLessen\CSharpHoofdStuk3\obj\Debug\App.g.cs
+D:\Projects\CSharpLessen\CSharpHoofdStuk3\obj\Debug\CSharpHoofdStuk3_MarkupCompile.cache
+D:\Projects\CSharpLessen\CSharpHoofdStuk3\obj\Debug\CSharpHoofdStuk3_MarkupCompile.lref
+D:\Projects\CSharpLessen\CSharpHoofdStuk3\obj\Debug\MainWindow.baml
+D:\Projects\CSharpLessen\CSharpHoofdStuk3\obj\Debug\CSharpHoofdStuk3.g.resources
+D:\Projects\CSharpLessen\CSharpHoofdStuk3\obj\Debug\CSharpHoofdStuk3.Properties.Resources.resources
+D:\Projects\CSharpLessen\CSharpHoofdStuk3\obj\Debug\CSharpHoofdStuk3.csproj.GenerateResource.cache
+D:\Projects\CSharpLessen\CSharpHoofdStuk3\obj\Debug\CSharpHoofdStuk3.csproj.CoreCompileInputs.cache
+D:\Projects\CSharpLessen\CSharpHoofdStuk3\obj\Debug\CSharpHoofdStuk3.exe
+D:\Projects\CSharpLessen\CSharpHoofdStuk3\obj\Debug\CSharpHoofdStuk3.pdb

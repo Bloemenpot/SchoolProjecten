@@ -1,0 +1,14 @@
+D:\Projects\CSharpLessen\CSharpBlok1Herkansing\bin\Debug\CSharpBlok1Herkansing.exe.config
+D:\Projects\CSharpLessen\CSharpBlok1Herkansing\bin\Debug\CSharpBlok1Herkansing.exe
+D:\Projects\CSharpLessen\CSharpBlok1Herkansing\bin\Debug\CSharpBlok1Herkansing.pdb
+D:\Projects\CSharpLessen\CSharpBlok1Herkansing\obj\Debug\CSharpBlok1Herkansing.csprojAssemblyReference.cache
+D:\Projects\CSharpLessen\CSharpBlok1Herkansing\obj\Debug\MainWindow.g.cs
+D:\Projects\CSharpLessen\CSharpBlok1Herkansing\obj\Debug\App.g.cs
+D:\Projects\CSharpLessen\CSharpBlok1Herkansing\obj\Debug\CSharpBlok1Herkansing_MarkupCompile.cache
+D:\Projects\CSharpLessen\CSharpBlok1Herkansing\obj\Debug\CSharpBlok1Herkansing_MarkupCompile.lref
+D:\Projects\CSharpLessen\CSharpBlok1Herkansing\obj\Debug\MainWindow.baml
+D:\Projects\CSharpLessen\CSharpBlok1Herkansing\obj\Debug\CSharpBlok1Herkansing.g.resources
+D:\Projects\CSharpLessen\CSharpBlok1Herkansing\obj\Debug\CSharpBlok1Herkansing.Properties.Resources.resources
+D:\Projects\CSharpLessen\CSharpBlok1Herkansing\obj\Debug\CSharpBlok1Herkansing.csproj.GenerateResource.cache
+D:\Projects\CSharpLessen\CSharpBlok1Herkansing\obj\Debug\CSharpBlok1Herkansing.exe
+D:\Projects\CSharpLessen\CSharpBlok1Herkansing\obj\Debug\CSharpBlok1Herkansing.pdb

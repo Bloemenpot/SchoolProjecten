@@ -1,0 +1,14 @@
+D:\Projects\CSharpLessen\Blok2Toets\Blok2Toets\bin\Debug\Blok2Toets.exe.config
+D:\Projects\CSharpLessen\Blok2Toets\Blok2Toets\bin\Debug\Blok2Toets.exe
+D:\Projects\CSharpLessen\Blok2Toets\Blok2Toets\bin\Debug\Blok2Toets.pdb
+D:\Projects\CSharpLessen\Blok2Toets\Blok2Toets\obj\Debug\Blok2Toets.csprojAssemblyReference.cache
+D:\Projects\CSharpLessen\Blok2Toets\Blok2Toets\obj\Debug\MainWindow.g.cs
+D:\Projects\CSharpLessen\Blok2Toets\Blok2Toets\obj\Debug\App.g.cs
+D:\Projects\CSharpLessen\Blok2Toets\Blok2Toets\obj\Debug\Blok2Toets_MarkupCompile.cache
+D:\Projects\CSharpLessen\Blok2Toets\Blok2Toets\obj\Debug\Blok2Toets_MarkupCompile.lref
+D:\Projects\CSharpLessen\Blok2Toets\Blok2Toets\obj\Debug\MainWindow.baml
+D:\Projects\CSharpLessen\Blok2Toets\Blok2Toets\obj\Debug\Blok2Toets.g.resources
+D:\Projects\CSharpLessen\Blok2Toets\Blok2Toets\obj\Debug\Blok2Toets.Properties.Resources.resources
+D:\Projects\CSharpLessen\Blok2Toets\Blok2Toets\obj\Debug\Blok2Toets.csproj.GenerateResource.cache
+D:\Projects\CSharpLessen\Blok2Toets\Blok2Toets\obj\Debug\Blok2Toets.exe
+D:\Projects\CSharpLessen\Blok2Toets\Blok2Toets\obj\Debug\Blok2Toets.pdb

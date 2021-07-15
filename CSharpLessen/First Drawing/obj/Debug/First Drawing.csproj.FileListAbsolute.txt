@@ -1,0 +1,15 @@
+D:\Projects\CSharpLessen\First Drawing\bin\Debug\First Drawing.exe.config
+D:\Projects\CSharpLessen\First Drawing\bin\Debug\First Drawing.exe
+D:\Projects\CSharpLessen\First Drawing\bin\Debug\First Drawing.pdb
+D:\Projects\CSharpLessen\First Drawing\obj\Debug\First Drawing.csprojAssemblyReference.cache
+D:\Projects\CSharpLessen\First Drawing\obj\Debug\MainWindow.g.cs
+D:\Projects\CSharpLessen\First Drawing\obj\Debug\App.g.cs
+D:\Projects\CSharpLessen\First Drawing\obj\Debug\First Drawing_MarkupCompile.cache
+D:\Projects\CSharpLessen\First Drawing\obj\Debug\First Drawing_MarkupCompile.lref
+D:\Projects\CSharpLessen\First Drawing\obj\Debug\MainWindow.baml
+D:\Projects\CSharpLessen\First Drawing\obj\Debug\First Drawing.g.resources
+D:\Projects\CSharpLessen\First Drawing\obj\Debug\First_Drawing.Properties.Resources.resources
+D:\Projects\CSharpLessen\First Drawing\obj\Debug\First Drawing.csproj.GenerateResource.cache
+D:\Projects\CSharpLessen\First Drawing\obj\Debug\First Drawing.csproj.CoreCompileInputs.cache
+D:\Projects\CSharpLessen\First Drawing\obj\Debug\First Drawing.exe
+D:\Projects\CSharpLessen\First Drawing\obj\Debug\First Drawing.pdb

@@ -1,0 +1,15 @@
+D:\Projects\CSharpLessen\Blok1Toets\CSharpBlok1TOETS\bin\Debug\CSharpBlok1TOETS.exe.config
+D:\Projects\CSharpLessen\Blok1Toets\CSharpBlok1TOETS\bin\Debug\CSharpBlok1TOETS.exe
+D:\Projects\CSharpLessen\Blok1Toets\CSharpBlok1TOETS\bin\Debug\CSharpBlok1TOETS.pdb
+D:\Projects\CSharpLessen\Blok1Toets\CSharpBlok1TOETS\obj\Debug\CSharpBlok1TOETS.csprojAssemblyReference.cache
+D:\Projects\CSharpLessen\Blok1Toets\CSharpBlok1TOETS\obj\Debug\MainWindow.g.cs
+D:\Projects\CSharpLessen\Blok1Toets\CSharpBlok1TOETS\obj\Debug\App.g.cs
+D:\Projects\CSharpLessen\Blok1Toets\CSharpBlok1TOETS\obj\Debug\CSharpBlok1TOETS_MarkupCompile.cache
+D:\Projects\CSharpLessen\Blok1Toets\CSharpBlok1TOETS\obj\Debug\CSharpBlok1TOETS_MarkupCompile.lref
+D:\Projects\CSharpLessen\Blok1Toets\CSharpBlok1TOETS\obj\Debug\MainWindow.baml
+D:\Projects\CSharpLessen\Blok1Toets\CSharpBlok1TOETS\obj\Debug\CSharpBlok1TOETS.g.resources
+D:\Projects\CSharpLessen\Blok1Toets\CSharpBlok1TOETS\obj\Debug\CSharpBlok1TOETS.Properties.Resources.resources
+D:\Projects\CSharpLessen\Blok1Toets\CSharpBlok1TOETS\obj\Debug\CSharpBlok1TOETS.csproj.GenerateResource.cache
+D:\Projects\CSharpLessen\Blok1Toets\CSharpBlok1TOETS\obj\Debug\CSharpBlok1TOETS.csproj.CoreCompileInputs.cache
+D:\Projects\CSharpLessen\Blok1Toets\CSharpBlok1TOETS\obj\Debug\CSharpBlok1TOETS.exe
+D:\Projects\CSharpLessen\Blok1Toets\CSharpBlok1TOETS\obj\Debug\CSharpBlok1TOETS.pdb
